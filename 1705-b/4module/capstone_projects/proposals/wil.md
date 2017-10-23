@@ -1,27 +1,27 @@
 ### Project Template
 
-### [Project Title]
+### Challenge Tripper
 
 ### Pitch
 
-1 sentence that explains the value proposition of the application. How would you explain it to a potential business partner, team member, or investor?
+Daily challenge creator based on the on-boarding process questionaire where the daily challenges come from a text message chat bot that is based on a Timed Response with a skills building challenge to follow to gain rewards or user functionability.
 
 ### Problem
 
-1-3 sentences describing the problem that you are trying to solve.
+A daily tool to require self-awareness to measure strengths and weaknesses while building and improving the latter along with additional skills only gained from real life practice after challenge success. Rankings based on Linked In Contacts
 
 ### Solution
 
-1-3 sentences describing how your application will solve that problem.
+Challenge and rewards and level advancement or location revealing will not be allowed until completion of both tasks allowing the user to inadvertantly create sub-skills to advance through the completion process faster
 
 ### Target Audience
 
-1-3 sentences describing what type of user your app would be applicable to.
+17-50 year olds with different levels of emotional and physical skills. 
 
 ### New Techniques
 
-Which new techniques are you hoping to implement?
+Chat Bot, Text messages, Two factor AUTH, Background jobs for persistance of Linked In Contacts as 
 
 ### Workflow
 
-What project management tool will you be using to manage your progress?
+Trello, Waffle, Git Hub, Slack, Mentor/s
