@@ -31,6 +31,7 @@ Follows requirements and meets all functionality. No bugs were present on localh
 Developer provides easy to navigate documentation showing how to setup and contribute to the application.
 
 
+
 - Meets Expectations
 
 Straightforward Readme with instructions to clone down and where to visit the live site
